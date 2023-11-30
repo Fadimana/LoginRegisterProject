@@ -1,0 +1,5 @@
+C:\Users\mm\source\repos\LoginRegister2\Aspect\obj\Debug\net7.0\AspectOrientedProgramming.csproj.AssemblyReference.cache
+C:\Users\mm\source\repos\LoginRegister2\Aspect\obj\Debug\net7.0\AspectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm\source\repos\LoginRegister2\Aspect\obj\Debug\net7.0\AspectOrientedProgramming.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\LoginRegister2\Aspect\obj\Debug\net7.0\AspectOrientedProgramming.AssemblyInfo.cs
+C:\Users\mm\source\repos\LoginRegister2\Aspect\obj\Debug\net7.0\AspectOrientedProgramming.csproj.CoreCompileInputs.cache

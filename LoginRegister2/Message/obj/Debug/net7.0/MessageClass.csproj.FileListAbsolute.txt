@@ -1,0 +1,11 @@
+C:\Users\mm\source\repos\LoginRegister2\Message\bin\Debug\net7.0\MessageClass.deps.json
+C:\Users\mm\source\repos\LoginRegister2\Message\bin\Debug\net7.0\MessageClass.dll
+C:\Users\mm\source\repos\LoginRegister2\Message\bin\Debug\net7.0\MessageClass.pdb
+C:\Users\mm\source\repos\LoginRegister2\Message\obj\Debug\net7.0\MessageClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm\source\repos\LoginRegister2\Message\obj\Debug\net7.0\MessageClass.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\LoginRegister2\Message\obj\Debug\net7.0\MessageClass.AssemblyInfo.cs
+C:\Users\mm\source\repos\LoginRegister2\Message\obj\Debug\net7.0\MessageClass.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\LoginRegister2\Message\obj\Debug\net7.0\MessageClass.dll
+C:\Users\mm\source\repos\LoginRegister2\Message\obj\Debug\net7.0\refint\MessageClass.dll
+C:\Users\mm\source\repos\LoginRegister2\Message\obj\Debug\net7.0\MessageClass.pdb
+C:\Users\mm\source\repos\LoginRegister2\Message\obj\Debug\net7.0\ref\MessageClass.dll

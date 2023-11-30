@@ -1,0 +1,11 @@
+C:\Users\mm\source\repos\LoginRegister2\Response\bin\Debug\net7.0\Response.deps.json
+C:\Users\mm\source\repos\LoginRegister2\Response\bin\Debug\net7.0\Response.dll
+C:\Users\mm\source\repos\LoginRegister2\Response\bin\Debug\net7.0\Response.pdb
+C:\Users\mm\source\repos\LoginRegister2\Response\obj\Debug\net7.0\Response.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm\source\repos\LoginRegister2\Response\obj\Debug\net7.0\Response.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\LoginRegister2\Response\obj\Debug\net7.0\Response.AssemblyInfo.cs
+C:\Users\mm\source\repos\LoginRegister2\Response\obj\Debug\net7.0\Response.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\LoginRegister2\Response\obj\Debug\net7.0\Response.dll
+C:\Users\mm\source\repos\LoginRegister2\Response\obj\Debug\net7.0\refint\Response.dll
+C:\Users\mm\source\repos\LoginRegister2\Response\obj\Debug\net7.0\Response.pdb
+C:\Users\mm\source\repos\LoginRegister2\Response\obj\Debug\net7.0\ref\Response.dll

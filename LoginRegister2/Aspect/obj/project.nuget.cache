@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pOk19YJUug27PT9sCOJhjlypVwlke5jcCOY5i4Boyb6yUF/THOjaWOhfFV8SfluaGX92E1TLt9U15twBuU8ZLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mm\\source\\repos\\LoginRegister2\\Aspect\\AspectOrientedProgramming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mm\\.nuget\\packages\\postsharp\\2023.0.7\\postsharp.2023.0.7.nupkg.sha512",
+    "C:\\Users\\mm\\.nuget\\packages\\postsharp.redist\\2023.0.7\\postsharp.redist.2023.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
